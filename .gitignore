@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#tmp dirs
+baidu_crawl_files/
+crawl_files/
+skypic_files/
